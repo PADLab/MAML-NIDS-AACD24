@@ -17,7 +17,7 @@ The repository includes the following files:
 
 ## Dataset
 
-The ACI IoT dataset can be found and accessed at the following link: [ACI-IoT-2023](https://www.kaggle.com/datasets/emilynack/ aci-iot-network-traffic-dataset-2023).
+The ACI IoT dataset can be found and accessed at the following links: [ACI-IoT-2023-Kaggle](https://www.kaggle.com/datasets/emilynack/aci-iot-network-traffic-dataset-2023), [ACI-IoT-2023-IEEE](https://ieee-dataport.org/documents/aci-iot-network-traffic-dataset-2023).
 
 The dataset contains network traffic data from an IoT environment, including various attack types such as DDoS, Reckon, and Spoofing. The goal is to classify the network traffic data into malicious or benign.
 
